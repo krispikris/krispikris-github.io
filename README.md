@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://res.cloudinary.com/duvgdb8rd/image/upload/v1670757007/se-personal-website/logos/kh-logo-white_umrzfz.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  kristopherhan.com
 </h1>
 <p align="center">
   The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
