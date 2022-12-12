@@ -2,10 +2,16 @@
   <img alt="Logo" src="https://res.cloudinary.com/duvgdb8rd/image/upload/v1670757007/se-personal-website/logos/kh-logo-white_umrzfz.png" width="100" />
 </div>
 <h1 align="center">
-  kristopherhan.com
+  krispikris.github.io
 </h1>
 
 ![demo](https://res.cloudinary.com/duvgdb8rd/image/upload/v1670861720/se-personal-website/Screen_Shot_2022-12-12_at_8.13.15_AM_lgrwmn.png)
+
+![02-am-wiw](https://res.cloudinary.com/duvgdb8rd/image/upload/v1670862142/se-personal-website/screenshots/02-am-wiw_rqefjz.png)
+
+![03-projects](https://res.cloudinary.com/duvgdb8rd/image/upload/v1670862142/se-personal-website/screenshots/03-projects_iyk7ur.png)
+
+![04-contact](https://res.cloudinary.com/duvgdb8rd/image/upload/v1670862142/se-personal-website/screenshots/04-contact-me_krdj2t.png)
 
 ## 🛠 Installation & Set Up
 
