@@ -63,7 +63,7 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Hello World! My name is:</h1>;
   const two = <h2 className="big-heading">Kristopher Han.</h2>;
   const three = <h3 className="big-heading">I love to create.</h3>;
   const four = (
@@ -73,11 +73,12 @@ const Hero = () => {
         approach to problem-solving. I am passionate about helping businesses grow while providing a
         joyful client experience.
         <p>
-          Skilled in Software Development, Sales, Real Estate, and Customer Service with a
-          Bachelor's Degree focused in Business Economics from the University of California, Irvine.
+          Skilled in Software Development, Photography, Sales, Real Estate, and Customer Service
+          with a Bachelor's Degree focused in Business Economics from the University of California,
+          Irvine.
         </p>
         <p>
-          Currently I’m focused completing my studies at{' '}
+          Currently, I’m focused completing my studies at{' '}
           <a href="https://www.appacademy.io/" target="_blank" rel="noreferrer">
             appAcademy
           </a>

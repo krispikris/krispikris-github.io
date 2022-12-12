@@ -134,7 +134,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is Kris and I love to create.</p>
+            <p>Hi! My name is Kris and I love to create.</p>
             <p>
               My interest in web development started back in 2013, when I edited my, What Superhero
               are you? quiz on MySpace — turns out hacking repacing my full name for Superman's name
